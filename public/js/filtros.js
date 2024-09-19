@@ -5,9 +5,9 @@ const filtro = (event, type = 'genero') => {
     // Inicializa o array de resultados com todas as músicas
     let resultados = musicas;
     // Obtém o valor da busca em minúsculas
-    const pesquisa = event.target.value.toLowerCase();
+    let pesquisa = event.target.value.toLowerCase();
     // Genero selecionado
-    const generoSelecionado = generoElemento.value;
+    let generoSelecionado = generoElemento.value;
     // Se o valor da busca for 'todos', renderiza todas as músicas
     if (type == 'genero' && generoSelecionado === 'todos'){
         return renderizar(musicas);
