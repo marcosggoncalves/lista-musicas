@@ -5,6 +5,10 @@
     font-family: sans-serif;
 }
 
+html{
+    background: rgba(248, 248, 248, 0.933);
+}
+
 main{
     display: none;
 }
@@ -12,6 +16,7 @@ main{
 :root {
     ---header-backcolor: #000;
     ---header-color: #fff;
+    ---box-color:  #efefed;
 }
 
 .center {
@@ -49,18 +54,19 @@ main{
 .filtros input,
 .filtros select {
     width: 100%;
-    border-radius: 6px;
-    border: 2px solid #ecece8;
+    border-radius: 5px;
+    border: none;
+    box-shadow: var(---box-color) 2px 2px 2px 2px;
     outline: none;
-    margin-top: 10px;
+    margin-top: 5px;
 }
 
 .filtros select {
-    padding: 0.4rem;
+    padding: 0.5rem;
 }
 
 .filtros input {
-    padding: 0.5rem;
+    padding: 0.6rem;
 }
 
 .container {
@@ -88,9 +94,8 @@ main{
 }
 
 .container-music {
-    background-color: var(_--header-color);
-    margin-top: 10px;
-    box-shadow: #efefed 2px 2px 2px 2px;
+    background-color: var(---header-color);
+    box-shadow: var(---box-color)  2px 2px 2px 2px;
     flex-direction: row;
 }
 
@@ -197,6 +202,6 @@ footer h1 {
     }
 
     .container-header-filtro input {
-        width: 260px;
+        width: 210px;
     }
 }
