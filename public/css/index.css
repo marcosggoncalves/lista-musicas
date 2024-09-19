@@ -16,7 +16,7 @@ main{
 :root {
     ---header-backcolor: #000;
     ---header-color: #fff;
-    ---box-color:  #efefed;
+    ---box-color:  #f0f0f0;
 }
 
 .center {
@@ -58,7 +58,7 @@ main{
     border: none;
     box-shadow: var(---box-color) 2px 2px 2px 2px;
     outline: none;
-    margin-top: 5px;
+    margin-top: 10px;
 }
 
 .filtros select {
@@ -97,6 +97,7 @@ main{
     background-color: var(---header-color);
     box-shadow: var(---box-color)  2px 2px 2px 2px;
     flex-direction: row;
+    align-items: center;
 }
 
 .container-music-info {
