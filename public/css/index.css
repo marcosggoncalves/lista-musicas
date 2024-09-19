@@ -148,6 +148,7 @@ footer h1 {
 
 .container-loader {
     padding: 20px 20px;
+    align-items: center;
 }
 
 .loader {
