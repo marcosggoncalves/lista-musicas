@@ -1,0 +1,8 @@
+[
+    { "value": "Gospel", "text": "Gospel" },
+    { "value": "Pop", "text": "Pop" },
+    { "value": "Rock", "text": "Rock" },
+    { "value": "Rap", "text": "Rap" },
+    { "value": "Jazz", "text": "Jazz" },
+    { "value": "Classical", "text": "Clássica" }
+]

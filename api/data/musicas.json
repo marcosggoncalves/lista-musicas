@@ -1,0 +1,142 @@
+[
+    {
+        "imagem": "https://akamai.sscdn.co/uploadfile/letras/albuns/3/8/b/c/877201585859996.jpg",
+        "titulo": "A Ele a Glória",
+        "artista": "Gabriela Rocha",
+        "genero": "Gospel",
+        "data_lancamento": "2020-05-01"
+    },
+    {
+        "imagem": "https://i.etsystatic.com/22618794/r/il/9275c9/5124849221/il_fullxfull.5124849221_h0r5.jpg",
+        "titulo": "Oceans (Where Feet May Fail)",
+        "artista": "Hillsong UNITED",
+        "genero": "Gospel",
+        "data_lancamento": "2013-07-19"
+    },
+    {
+        "imagem": "https://i.etsystatic.com/22618794/r/il/9275c9/5124849221/il_fullxfull.5124849221_h0r5.jpg",
+        "titulo": "10.000 Razões",
+        "artista": "Matt Redman",
+        "genero": "Gospel",
+        "data_lancamento": "2011-07-01"
+    },
+    {
+        "imagem": "https://i.etsystatic.com/22618794/r/il/9275c9/5124849221/il_fullxfull.5124849221_h0r5.jpg",
+        "titulo": "Música do Céu",
+        "artista": "Bruna Karla",
+        "genero": "Gospel",
+        "data_lancamento": "2017-11-10"
+    },
+    {
+        "imagem": "https://i.etsystatic.com/22618794/r/il/9275c9/5124849221/il_fullxfull.5124849221_h0r5.jpg",
+        "titulo": "Eu Navegarei",
+        "artista": "Rodolfo Abrantes",
+        "genero": "Gospel",
+        "data_lancamento": "2006-08-28"
+    },
+    {
+        "imagem": "https://i.etsystatic.com/22618794/r/il/9275c9/5124849221/il_fullxfull.5124849221_h0r5.jpg",
+        "titulo": "Apenas um Toque",
+        "artista": "Fernandinho",
+        "genero": "Gospel",
+        "data_lancamento": "2014-09-12"
+    },
+    {
+        "imagem": "https://i.etsystatic.com/22618794/r/il/9275c9/5124849221/il_fullxfull.5124849221_h0r5.jpg",
+        "titulo": "Grande é o Senhor",
+        "artista": "Diante do Trono",
+        "genero": "Gospel",
+        "data_lancamento": "2012-03-01"
+    },
+    {
+        "imagem": "https://i.etsystatic.com/22618794/r/il/9275c9/5124849221/il_fullxfull.5124849221_h0r5.jpg",
+        "titulo": "Sou Teu",
+        "artista": "Aline Barros",
+        "genero": "Gospel",
+        "data_lancamento": "2015-11-06"
+    },
+    {
+        "imagem": "https://i.etsystatic.com/22618794/r/il/9275c9/5124849221/il_fullxfull.5124849221_h0r5.jpg",
+        "titulo": "Raridade",
+        "artista": "Anderson Freire",
+        "genero": "Gospel",
+        "data_lancamento": "2012-09-01"
+    },
+    {
+        "imagem": "https://i.etsystatic.com/22618794/r/il/9275c9/5124849221/il_fullxfull.5124849221_h0r5.jpg",
+        "titulo": "Com Muito Louvor",
+        "artista": "Ana Paula Valadão",
+        "genero": "Gospel",
+        "data_lancamento": "2011-05-17"
+    },
+    {
+        "imagem": "https://i.etsystatic.com/22618794/r/il/9275c9/5124849221/il_fullxfull.5124849221_h0r5.jpg",
+        "titulo": "Shape of You",
+        "artista": "Ed Sheeran",
+        "genero": "Pop",
+        "data_lancamento": "2017-01-06"
+    },
+    {
+        "imagem": "https://i.etsystatic.com/22618794/r/il/9275c9/5124849221/il_fullxfull.5124849221_h0r5.jpg",
+        "titulo": "Blinding Lights",
+        "artista": "The Weeknd",
+        "genero": "Pop",
+        "data_lancamento": "2019-11-29"
+    },
+    {
+        "imagem": "https://i.etsystatic.com/22618794/r/il/9275c9/5124849221/il_fullxfull.5124849221_h0r5.jpg",
+        "titulo": "Uptown Funk",
+        "artista": "Mark Ronson ft. Bruno Mars",
+        "genero": "Funk",
+        "data_lancamento": "2014-11-10"
+    },
+    {
+        "imagem": "https://i.etsystatic.com/22618794/r/il/9275c9/5124849221/il_fullxfull.5124849221_h0r5.jpg",
+        "titulo": "Rolling in the Deep",
+        "artista": "Adele",
+        "genero": "Pop",
+        "data_lancamento": "2010-11-29"
+    },
+    {
+        "imagem": "https://i.etsystatic.com/22618794/r/il/9275c9/5124849221/il_fullxfull.5124849221_h0r5.jpg",
+        "titulo": "Bad Guy",
+        "artista": "Billie Eilish",
+        "genero": "Pop",
+        "data_lancamento": "2019-03-29"
+    },
+    {
+        "imagem": "https://i.etsystatic.com/22618794/r/il/9275c9/5124849221/il_fullxfull.5124849221_h0r5.jpg",
+        "titulo": "Stairway to Heaven",
+        "artista": "Led Zeppelin",
+        "genero": "Rock",
+        "data_lancamento": "1971-11-08"
+    },
+    {
+        "imagem": "https://i.etsystatic.com/22618794/r/il/9275c9/5124849221/il_fullxfull.5124849221_h0r5.jpg",
+        "titulo": "Lose Yourself",
+        "artista": "Eminem",
+        "genero": "Rap",
+        "data_lancamento": "2002-10-28"
+    },
+    {
+        "imagem": "https://i.etsystatic.com/22618794/r/il/9275c9/5124849221/il_fullxfull.5124849221_h0r5.jpg",
+        "titulo": "Imagine",
+        "artista": "John Lennon",
+        "genero": "Rock",
+        "data_lancamento": "1971-10-11"
+    },
+    {
+        "imagem": "https://i.etsystatic.com/22618794/r/il/9275c9/5124849221/il_fullxfull.5124849221_h0r5.jpg",
+        "titulo": "Take Five",
+        "artista": "Dave Brubeck",
+        "genero": "Jazz",
+        "data_lancamento": "1959-12-01"
+    },
+    {
+        "imagem": "https://i.etsystatic.com/22618794/r/il/9275c9/5124849221/il_fullxfull.5124849221_h0r5.jpg",
+        "titulo": "Clair de Lune",
+        "artista": "Claude Debussy",
+        "genero": "Classical",
+        "data_lancamento": "1905-04-02"
+    }
+]
