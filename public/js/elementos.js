@@ -89,13 +89,17 @@ const loading = (displayLoading, displayMain) => {
     main.style.display = displayMain;
 }
 
+const limparListadMusicas = (data) => {
+    renderHtml.innerHTML = data.length == 0 ? 'Desculpa, não encontramos sua música :(' : null;
+}
+
 const renderizar = (data) => {
     // Limpar estrutura
-    renderHtml.innerHTML = null;
+    limparListadMusicas(data);
+    // Parar loading
+    loading('none', 'block');
     // renderizar e criar os elementos
     data.forEach(musica =>
         renderHtml.appendChild(criarItemLista(musica))
     )
-    // Parar loading
-    loading('none', 'block');
 }

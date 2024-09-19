@@ -1,24 +1,22 @@
-const main = document.querySelector("main");
+const main = document.querySelector("main"),
+    loadingElemento = document.querySelector("#loading"),
+    generoElemento = document.querySelector('#genero'),
+    searchElemento = document.querySelector('#search'),
+    renderHtml = document.querySelector("#music");
 
-const loadingElemento = document.querySelector("#loading");
-
-const generoElemento = document.querySelector('#genero');
 // Adiciona evento para mudanças na seleção de gênero
 generoElemento.addEventListener("change", filtro);
-
-const searchElemento = document.querySelector('#search');
 // Adiciona evento para mudanças no campo de pesquisa (search)
 searchElemento.addEventListener("keyup", filtro);
 
-const renderHtml = document.querySelector("#music");
-
 (async () => {
+    // Buscar lista de musicas da api
     await getMusicas();
-    
-    await getGeneros();  
-
+    // Buscar lista de generos
+    await getGeneros();
+    // Criar lista de generos na caixa de pesquisa 'select'
     criarOptionFiltroGeneros(generos);
 
     renderizar(musicas);
-})(); 
+})();
 
