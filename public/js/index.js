@@ -1,5 +1,6 @@
+const main = document.querySelector("main");
 
-
+const loadingElemento = document.querySelector("#loading");
 
 const generoElemento = document.querySelector('#genero');
 // Adiciona evento para mudanças na seleção de gênero

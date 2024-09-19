@@ -1,30 +1,23 @@
-var musicas = [];
-var generos = [];
+const url = 'https://marcosggoncalves.github.io/new-music';
+
+var musicas = new Array(), generos = new Array();
 
 // Função para buscar lista de músicas
 async function getMusicas() {
     try {
-        const response = await axios.get('https://marcosggoncalves.github.io/new-music/api/data/musicas.json');
+        const response = await axios.get(`${url}/api/data/musicas.json`);
         musicas = response.data;
     } catch (error) {
-        console.error('Erro ao buscar músicas:', error);
-        return [];
+       alert('Erro ao consultar endpoint de listagem das músicas:', error); 
     }
 }
 
 // Função para buscar lista de gêneros
 async function getGeneros() {
     try {
-        const response = await axios.get('https://marcosggoncalves.github.io/new-music/api/data/generos.json');
+        const response = await axios.get(`${url}/api/data/generos.json`);
         generos =  response.data;
     } catch (error) {
-        console.error('Erro ao buscar gêneros:', error);
-        return [];
+       alert('Erro ao consultar endpoint de listagem dos  gêneros:', error); 
     }
 }
-
-(async () => {
-    await getMusicas();
-    await getGeneros();  
-})();
- 

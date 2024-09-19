@@ -84,6 +84,11 @@ const criarItemLista = (musica) => {
     return container;
 };
 
+const loading = (displayLoading, displayMain) => {
+    loadingElemento.style.display = displayLoading;
+    main.style.display = displayMain;
+}
+
 const renderizar = (data) => {
     // Limpar estrutura
     renderHtml.innerHTML = null;
@@ -91,4 +96,6 @@ const renderizar = (data) => {
     data.forEach(musica =>
         renderHtml.appendChild(criarItemLista(musica))
     )
+    // Parar loading
+    loading('none', 'block');
 }
