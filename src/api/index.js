@@ -1,4 +1,4 @@
-const url = 'https://marcosggoncalves.github.io/new-music';
+const url = 'https://marcosggoncalves.github.io/new-music/src/';
 
 var musicas = new Array(), generos = new Array();
 
