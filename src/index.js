@@ -15,7 +15,7 @@ searchElemento.addEventListener("keyup",  (e) => filtro(e, 'artistaETitulo'));
     await getGeneros();
     // Criar lista de generos na caixa de pesquisa 'select'
     criarOptionFiltroGeneros(generos);
-
+    
     renderizar(musicas);
 })();
 
