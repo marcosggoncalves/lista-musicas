@@ -4,139 +4,127 @@
         "titulo": "A Ele a Glória",
         "artista": "Gabriela Rocha",
         "genero": "Gospel",
-        "lancamento": "01/05/2020"
+        "lancamento": "01/05/2020",
+        "youtubeLink": "https://www.youtube.com/watch?v=9p3qBC3VotM"
     },
     {
         "capaImg": "https://i.etsystatic.com/22618794/r/il/9275c9/5124849221/il_fullxfull.5124849221_h0r5.jpg",
         "titulo": "Oceans (Where Feet May Fail)",
         "artista": "Hillsong UNITED",
         "genero": "Gospel",
-        "lancamento": "19/07/2013"
+        "lancamento": "19/07/2013",
+        "youtubeLink": "https://www.youtube.com/watch?v=dy9nwe9_xzw"
     },
     {
         "capaImg": "https://i.etsystatic.com/22618794/r/il/9275c9/5124849221/il_fullxfull.5124849221_h0r5.jpg",
         "titulo": "10.000 Razões",
         "artista": "Matt Redman",
         "genero": "Gospel",
-        "lancamento": "01/07/2011"
+        "lancamento": "01/07/2011",
+        "youtubeLink": "https://www.youtube.com/watch?v=XtwIT8JjddM"
     },
     {
         "capaImg": "https://i.etsystatic.com/22618794/r/il/9275c9/5124849221/il_fullxfull.5124849221_h0r5.jpg",
         "titulo": "Música do Céu",
         "artista": "Bruna Karla",
         "genero": "Gospel",
-        "lancamento": "10/11/2017"
+        "lancamento": "10/11/2017",
+        "youtubeLink": "https://www.youtube.com/watch?v=NOa5UOHdwnc"
     },
     {
         "capaImg": "https://i.etsystatic.com/22618794/r/il/9275c9/5124849221/il_fullxfull.5124849221_h0r5.jpg",
         "titulo": "Eu Navegarei",
         "artista": "Rodolfo Abrantes",
         "genero": "Gospel",
-        "lancamento": "28/08/2006"
+        "lancamento": "28/08/2006",
+        "youtubeLink": "https://www.youtube.com/watch?v=FOpISv7MT0E"
     },
     {
         "capaImg": "https://i.etsystatic.com/22618794/r/il/9275c9/5124849221/il_fullxfull.5124849221_h0r5.jpg",
         "titulo": "Apenas um Toque",
         "artista": "Fernandinho",
         "genero": "Gospel",
-        "lancamento": "12/09/2014"
+        "lancamento": "12/09/2014",
+        "youtubeLink": "https://www.youtube.com/watch?v=0jYF6EwBpxc"
     },
     {
         "capaImg": "https://i.etsystatic.com/22618794/r/il/9275c9/5124849221/il_fullxfull.5124849221_h0r5.jpg",
         "titulo": "Grande é o Senhor",
         "artista": "Diante do Trono",
         "genero": "Gospel",
-        "lancamento": "01/03/2012"
+        "lancamento": "01/03/2012",
+        "youtubeLink": "https://www.youtube.com/watch?v=bsBx-GY8-KM"
     },
     {
         "capaImg": "https://i.etsystatic.com/22618794/r/il/9275c9/5124849221/il_fullxfull.5124849221_h0r5.jpg",
         "titulo": "Sou Teu",
         "artista": "Aline Barros",
         "genero": "Gospel",
-        "lancamento": "06/11/2015"
+        "lancamento": "06/11/2015",
+        "youtubeLink": "https://www.youtube.com/watch?v=hXEqnF7ksbk"
     },
     {
         "capaImg": "https://i.etsystatic.com/22618794/r/il/9275c9/5124849221/il_fullxfull.5124849221_h0r5.jpg",
         "titulo": "Raridade",
         "artista": "Anderson Freire",
         "genero": "Gospel",
-        "lancamento": "01/09/2012"
+        "lancamento": "01/09/2012",
+        "youtubeLink": "https://www.youtube.com/watch?v=-O1G4YLFN8g"
     },
     {
         "capaImg": "https://i.etsystatic.com/22618794/r/il/9275c9/5124849221/il_fullxfull.5124849221_h0r5.jpg",
         "titulo": "Com Muito Louvor",
         "artista": "Ana Paula Valadão",
         "genero": "Gospel",
-        "lancamento": "17/05/2011"
+        "lancamento": "17/05/2011",
+        "youtubeLink": "https://www.youtube.com/watch?v=8Cm4kclGtiA"
     },
     {
         "capaImg": "https://i.etsystatic.com/22618794/r/il/9275c9/5124849221/il_fullxfull.5124849221_h0r5.jpg",
         "titulo": "Shape of You",
         "artista": "Ed Sheeran",
         "genero": "Pop",
-        "lancamento": "06/01/2017"
+        "lancamento": "06/01/2017",
+        "youtubeLink": "https://www.youtube.com/watch?v=JGwWNGJdvx8"
     },
     {
         "capaImg": "https://i.etsystatic.com/22618794/r/il/9275c9/5124849221/il_fullxfull.5124849221_h0r5.jpg",
         "titulo": "Blinding Lights",
         "artista": "The Weeknd",
         "genero": "Pop",
-        "lancamento": "29/11/2019"
+        "lancamento": "29/11/2019",
+        "youtubeLink": "https://www.youtube.com/watch?v=4NRXx6U8ABQ"
     },
     {
         "capaImg": "https://i.etsystatic.com/22618794/r/il/9275c9/5124849221/il_fullxfull.5124849221_h0r5.jpg",
         "titulo": "Uptown Funk",
         "artista": "Mark Ronson ft. Bruno Mars",
         "genero": "Funk",
-        "lancamento": "10/11/2014"
+        "lancamento": "10/11/2014",
+        "youtubeLink": "https://www.youtube.com/watch?v=OPf0YbXqDm0"
     },
     {
         "capaImg": "https://i.etsystatic.com/22618794/r/il/9275c9/5124849221/il_fullxfull.5124849221_h0r5.jpg",
         "titulo": "Rolling in the Deep",
         "artista": "Adele",
         "genero": "Pop",
-        "lancamento": "29/11/2010"
+        "lancamento": "29/11/2010",
+        "youtubeLink": "https://www.youtube.com/watch?v=rYEDA3JcQqw"
     },
     {
         "capaImg": "https://i.etsystatic.com/22618794/r/il/9275c9/5124849221/il_fullxfull.5124849221_h0r5.jpg",
         "titulo": "Bad Guy",
         "artista": "Billie Eilish",
         "genero": "Pop",
-        "lancamento": "29/03/2019"
+        "lancamento": "29/03/2019",
+        "youtubeLink": "https://www.youtube.com/watch?v=DyDfgMOUjCI"
     },
     {
         "capaImg": "https://i.etsystatic.com/22618794/r/il/9275c9/5124849221/il_fullxfull.5124849221_h0r5.jpg",
         "titulo": "Stairway to Heaven",
         "artista": "Led Zeppelin",
         "genero": "Rock",
-        "lancamento": "08/11/1971"
-    },
-    {
-        "capaImg": "https://i.etsystatic.com/22618794/r/il/9275c9/5124849221/il_fullxfull.5124849221_h0r5.jpg",
-        "titulo": "Lose Yourself",
-        "artista": "Eminem",
-        "genero": "Rap",
-        "lancamento": "28/10/2002"
-    },
-    {
-        "capaImg": "https://i.etsystatic.com/22618794/r/il/9275c9/5124849221/il_fullxfull.5124849221_h0r5.jpg",
-        "titulo": "Imagine",
-        "artista": "John Lennon",
-        "genero": "Rock",
-        "lancamento": "11/10/1971"
-    },
-    {
-        "capaImg": "https://i.etsystatic.com/22618794/r/il/9275c9/5124849221/il_fullxfull.5124849221_h0r5.jpg",
-        "titulo": "Take Five",
-        "artista": "Dave Brubeck",
-        "genero": "Jazz",
-        "lancamento": "01/12/1959"
-    },
-    {
-        "capaImg": "https://i.etsystatic.com/22618794/r/il/9275c9/5124849221/il_fullxfull.5124849221_h0r5.jpg",
-        "titulo": "Clair de Lune",
-        "artista": "Claude Debussy",
-        "genero": "Classical",
-        "lancamento": "02/04/1905"
+        "lancamento": "08/11/1971",
+        "youtubeLink": "https://www.youtube.com/watch?v=xbhCPt6PZIU"
     }
 ]

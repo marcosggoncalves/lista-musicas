@@ -75,6 +75,10 @@ const criarItemLista = (musica) => {
     // Adiciona a lista ao container de informações
     containerDados.appendChild(lista);
 
+    /** Abrir video ao clicar no container principal **/
+    container.onclick = function() {
+        window.open(musica.youtubeLink, '_blank');
+    };
     /** Montagem final do container principal **/
     // Adiciona o container da imagem e o container de informações ao container principal
     container.appendChild(containerImg);
