@@ -1,13 +1,12 @@
 const main = document.querySelector("main"),
     loadingElemento = document.querySelector("#loading"),
-    generoElemento = document.querySelector('#genero'),
     searchElemento = document.querySelector('#search'),
     renderHtml = document.querySelector("#music");
 
 // Adiciona evento para mudanças na seleção de gênero
-generoElemento.addEventListener("change", filtro);
+generoElemento.addEventListener("change", (e) => filtro(e, 'genero'));
 // Adiciona evento para mudanças no campo de pesquisa (search)
-searchElemento.addEventListener("keyup", filtro);
+searchElemento.addEventListener("keyup",  (e) => filtro(e, 'artistaETitulo'));
 
 (async () => {
     // Buscar lista de musicas da api
