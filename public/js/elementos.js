@@ -1,5 +1,5 @@
 // Função para criar opções de generos 
-function criarOptionFiltroGeneros(data) {
+const criarOptionFiltroGeneros = (data) =>{
     data.forEach(optionData => {
         // Cria um novo elemento <option>
         const option = document.createElement('option');
