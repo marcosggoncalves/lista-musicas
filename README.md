@@ -1,6 +1,6 @@
 # New Music Application
 
-Este projeto é uma aplicação web que permite listar, exibir e filtrar músicas por gênero. A aplicação foi desenvolvida utilizando HTML, CSS, JavaScript e API REST, seguindo a metodologia SCRUM e utilizando o Azure DevOps para gestão das tarefas.
+Este projeto é uma aplicação web que permite listar, exibir e filtrar músicas por gênero. A aplicação foi desenvolvida utilizando HTML, CSS, JavaScript e API REST.
 
 ## Funcionalidades
 - Listagem de músicas
