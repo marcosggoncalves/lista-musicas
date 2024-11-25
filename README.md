@@ -1,4 +1,4 @@
-#Aplicação de lista de Músicas.
+# Aplicação de lista de Músicas.
 
 Este projeto é uma aplicação web que permite listar, exibir e filtrar músicas por gênero. A aplicação foi desenvolvida utilizando HTML, CSS, JavaScript e API REST.
 
