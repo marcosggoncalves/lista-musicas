@@ -9,7 +9,7 @@ Este projeto é uma aplicação web que permite listar, exibir e filtrar música
 - Busca de músicas
 
 ## Acesse a Aplicação
-[New Music Application](https://marcosggoncalves.github.io/new-music/)
+[New Music Application](https://marcosggoncalves.github.io/lista-musicas/)
 
 ## Imagem do Painel
 ![Painel da Aplicação](https://github.com/marcosggoncalves/new-music/blob/master/Painel.png)
@@ -17,4 +17,4 @@ Este projeto é uma aplicação web que permite listar, exibir e filtrar música
 ## Como Executar
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/marcosggoncalves/new-music.git
+   git clone https://github.com/marcosggoncalves/lista-musicas.git
